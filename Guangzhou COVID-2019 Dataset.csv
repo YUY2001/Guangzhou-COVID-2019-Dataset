@@ -1,4 +1,4 @@
-﻿Province,City,Data,Cumulative_diagnosis,New_confirmed_diagnosis,Cumulative_cure,New_cure,Cumulative_death,New_death,Existing_confirmed,Added_native_asymptomatic
+﻿Province,City,Date,Cumulative_diagnosis,New_confirmed_diagnosis,Cumulative_cure,New_cure,Cumulative_death,New_death,Existing_confirmed,Added_native_asymptomatic
 Guangdong,Guangzhou,2022/11/5,5377,189,4073,74,1,0,1303,1259
 Guangdong,Guangzhou,2022/11/4,5188,170,3999,0,1,0,1188,635
 Guangdong,Guangzhou,2022/11/3,5018,150,3999,28,1,0,1018,430
